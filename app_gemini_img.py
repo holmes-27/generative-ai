@@ -1,4 +1,4 @@
-# change enivronment for gemini
+# pip install streamlit google-genai, pillow
 import streamlit as st
 import base64
 import httpx
