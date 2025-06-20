@@ -194,7 +194,7 @@ llama3.2:3b - fast
 20. can you help me relax? --> conversation
 21. hey hi --> conversation
 =========================================================================
-gemma3:4b - medium
+gemma3:4b - fast
 -----------------------------------
 1. what's the weather like in Bangalore? --> tool
 2. what time is it right now? --> tool
@@ -222,7 +222,7 @@ deepseek-r1:1.5b - very very slow
 -----------------------------------
 
 ---------------------------------------------------
-OVERALL 2 MODELS ARE BEST llama3.2:3b AND gemma3:4b
+OVERALL 2 MODELS ARE BEST - llama3.2:3b AND gemma3:4b
 ---------------------------------------------------
 =========================
 llama3.2:3b - 27.41 secs
